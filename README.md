@@ -1,6 +1,8 @@
 openwrt-uci
 ===========
 
+[![Build Status](https://travis-ci.org/vbotka/ansible-openwrt-uci.svg?branch=master)](https://travis-ci.org/vbotka/ansible-openwt-uci)
+
 setting of uci config keys on openwrt systems. this is just the
 library module so that other openwrt roles can dependend on it.
 
@@ -20,12 +22,14 @@ seems to be the openwrt scripting language of choice.
 License
 -------
 
-BSD
+[![license](https://img.shields.io/badge/license-BSD-red.svg)](https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html)
 
 Author Information
 ------------------
 
-Fabian Linzberger, [http://e.lefant.net/]
+- [Vladimir Botka](https://botka.link)
+- Forked from [lefant/ansible-openwrt-uci](https://github.com/lefant/ansible-openwrt-uci) by [Fabian Linzberger](http://e.lefant.net/)
+
 
 
 
