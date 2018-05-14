@@ -1,4 +1,8 @@
 ---
-# handlers file for openwrt-uci
+# handlers for openwrt-uci
+
 - name: uci commit
   raw: uci commit
+
+# EOF
+...

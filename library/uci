@@ -1,7 +1,6 @@
 #!/bin/sh
 # wrapper for conditional setting of uci config
 # compare http://wiki.openwrt.org/doc/techref/uci
-
 # TODO: add more docs, see http://docs.ansible.com/developing_modules.html
 
 # parameters are command, key, value
@@ -31,3 +30,5 @@ else
     fi
     echo -n '{"changed": true, "msg": "executed uci '${command}' '${unquoted_key}'='${value}'"}'
 fi
+
+# EOF
