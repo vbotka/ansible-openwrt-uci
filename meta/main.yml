@@ -1,16 +1,15 @@
 ---
 galaxy_info:
   author: Vladimir Botka. Forked from Fabian Linzberger
-  description: library for setting of uci config keys on openwrt systems
+  description:  OpenWrt. Library for setting uci config keys.
   license: BSD
-  min_ansible_version: 1.7
+  min_ansible_version: 2.5
   platforms: []
   # - Openwrt
   # versions:
   #   - 14.07
   #   - 15.05
   categories:
-    - system
     - openwrt
 dependencies: []
 
