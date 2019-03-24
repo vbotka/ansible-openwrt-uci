@@ -1,7 +1,8 @@
 ---
 galaxy_info:
-  role_name:openwrt_uci
+  role_name: openwrt_uci
   author: Vladimir Botka. Forked from Fabian Linzberger
+  company: https://botka.link
   description:  OpenWrt. Library for setting uci config keys.
   license: BSD
   min_ansible_version: 2.5
