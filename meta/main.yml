@@ -5,6 +5,7 @@ galaxy_info:
   company: https://botka.link
   description:  OpenWrt. Library for setting uci config keys.
   license: BSD
+  github_branch: master
   min_ansible_version: 2.5
   platforms: []
   # - Openwrt
