@@ -15,6 +15,7 @@ galaxy_info:
   categories:
     - openwrt
 dependencies: []
+galaxy_tags: []
 
 # EOF
 ...
